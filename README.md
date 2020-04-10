@@ -1,2 +1,2 @@
-# coronovirus-tomography-bibliog
-# coronovirus-tomography-bibliog
+# coronoairus-tomography-bibliog
+# coronavirus-tomography-bibliog
